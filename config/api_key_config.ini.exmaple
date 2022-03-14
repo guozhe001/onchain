@@ -1,0 +1,18 @@
+[api.etherscan]
+api_key =
+
+[api.bscscan]
+api_key =
+
+[ethereum_project_id]
+# https://infura.io/
+infura =
+# https://www.alchemy.com/
+alchemy =
+# https://getblock.io/
+getblock =
+# https://moralis.io/speedy-nodes/
+moralis =
+
+[eth_account]
+private_key =
