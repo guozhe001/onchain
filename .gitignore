@@ -1,3 +1,4 @@
 config/api_key_config.ini
 venv/
 logs/
+.idea
